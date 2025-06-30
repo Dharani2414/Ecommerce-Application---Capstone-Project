@@ -1,0 +1,7 @@
+C:\Users\Dharani\source\repos\EcomApp\Utils\bin\Debug\Utils.exe.config
+C:\Users\Dharani\source\repos\EcomApp\Utils\bin\Debug\Utils.exe
+C:\Users\Dharani\source\repos\EcomApp\Utils\bin\Debug\Utils.pdb
+C:\Users\Dharani\source\repos\EcomApp\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\Dharani\source\repos\EcomApp\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Dharani\source\repos\EcomApp\Utils\obj\Debug\Utils.exe
+C:\Users\Dharani\source\repos\EcomApp\Utils\obj\Debug\Utils.pdb
