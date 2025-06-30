@@ -1,7 +1,0 @@
-C:\Users\Dharani\source\repos\EcomApp\Models\bin\Debug\Models.exe.config
-C:\Users\Dharani\source\repos\EcomApp\Models\bin\Debug\Models.exe
-C:\Users\Dharani\source\repos\EcomApp\Models\bin\Debug\Models.pdb
-C:\Users\Dharani\source\repos\EcomApp\Models\obj\Debug\Models.csproj.AssemblyReference.cache
-C:\Users\Dharani\source\repos\EcomApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
-C:\Users\Dharani\source\repos\EcomApp\Models\obj\Debug\Models.exe
-C:\Users\Dharani\source\repos\EcomApp\Models\obj\Debug\Models.pdb
