@@ -1,0 +1,72 @@
+## Build Folders
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## MonoDevelop
+*.userprefs
+
+## Visual Studio Code
+.vscode/
+
+## Visual Studio
+.vs/
+*.vc.db
+*.VC.db
+*.vssscc
+*.ncb
+*.aps
+*.opensdf
+*.sdf
+*.cachefile
+*.dbmdl
+*.pdb
+
+## Rider
+.idea/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+# Exclude package-lock if using newer PackageReference
+!**/packages.config
+
+## Others
+*.log
+*.tlog
+*.tmp
+*.bak
+*.swp
+
+# Local test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure build artifacts
+csx/
+*.publish.xml
+*.pubxml
+*.azurePubxml
+
+# DotCover
+.idea/
+*.dotCover
+
+# Entity Framework Migrations
+Migrations/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
